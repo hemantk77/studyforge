@@ -1,0 +1,2 @@
+- Installed Node LTS, Git and GitHub CLI through terminal
+- Created the repo through terminal for the first time

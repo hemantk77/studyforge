@@ -1,0 +1,1 @@
+- I have an idea of building a chrome extension to announce goals scored for football matches opened in the tab.
